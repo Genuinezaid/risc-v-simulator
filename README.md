@@ -71,7 +71,7 @@ riscv-simulator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Geniunezaid/risc-v-simulator.git
+git clone https://github.com/Genuinezaid/risc-v-simulator.git
 cd risc-v-simulator
 ```
 
