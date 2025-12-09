@@ -71,14 +71,14 @@ riscv-simulator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/riscv-pipeline-simulator.git
-cd riscv-pipeline-simulator
+git clone https://github.com/Geniunezaid/risc-v-simulator.git
+cd risc-v-simulator
 ```
 
 Run the simulator:
 
 ```bash
-python gui.py
+python main.py
 ```
 
 ---
